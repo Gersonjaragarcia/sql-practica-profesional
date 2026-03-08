@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "postgresdemo",
+            "username": "postgres",
+            "database": "demo"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "ejerciciodb",
+            "username": "postgres",
+            "database": "sql_practica_profesional"
+        }
+    ]
+}
