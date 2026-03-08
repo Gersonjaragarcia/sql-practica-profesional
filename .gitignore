@@ -1,0 +1,9 @@
+# VSCode
+.vscode/
+
+# archivos temporales
+*.log
+*.tmp
+
+# sistema
+.DS_Store
